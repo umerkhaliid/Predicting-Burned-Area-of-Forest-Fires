@@ -1,4 +1,4 @@
-# Predicting-Burned-Area-of-Forest-Fires-using-LSTM
+# Predicting-Burned-Area-of-Forest-Fires-Using-LSTM
 **Objective**
 This project focuses on predicting the burned area of forest fires using Long Short-Term Memory (LSTM) neural networks. 
 The LSTM model is trained on historical data to forecast the extent of forest fire damage based on various environmental and meteorological factors.
